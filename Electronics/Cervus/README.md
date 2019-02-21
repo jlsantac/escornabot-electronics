@@ -13,7 +13,7 @@ licensed under [Creative Commons BY-SA](LICENSE).
 
 Developers don't produce boards to sell. Under [PCBWAY]
 
-![Top view](cervus_2_0_Sim3_4.jpg)
+![Top view](cervus_2_0_PIN-OUT.png)
 
 ![Bottom view](Cervus_2_0.jpg)
 
