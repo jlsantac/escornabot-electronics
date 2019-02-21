@@ -23,8 +23,6 @@ licensed under [Creative Commons BY-SA](LICENSE).
 
 Developers don't produce boards to sell. Under [PCBWAY]
 
-![Top view](top.png)
-
 ![Bottom view](key_pad_fotojpg)
 
 
