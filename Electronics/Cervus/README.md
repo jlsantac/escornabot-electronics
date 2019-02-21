@@ -2,7 +2,7 @@
 
 ## Catalog
 
-- [Cervus][KEY01] (by [Xdesig][XDE01]) is a 50x50mm board, it controls any Escornabot, and is an atmega development PCB (Arduino compatible)
+- [Cervus][KEY01] (by [Xdesig][XDE01]) is a 50x50mm board, it controls any Escornabot, and is an atmega development PCB (Arduino Leonardo compatible)
 
 ## License
 
